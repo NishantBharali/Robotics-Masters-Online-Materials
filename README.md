@@ -1,6 +1,7 @@
-# Online Robotics Master
+# Online Robotics Master Reference Materials
 
-`Robotics Online Master` in `21 months`.
+`Robotics Online Master's` in `21 months`. 
+`Reference materials to get into the field of robotics from fundamentals to advanced modeling`
 
 This is a master resulting from the courses aggregation from mainly 3 universities:
 - [Bonn University](https://www.uni-bonn.de/en/university)
